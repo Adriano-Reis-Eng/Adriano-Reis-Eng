@@ -27,7 +27,7 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Reis-Eng&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
     </a>
 </div>
-<div align="left" style="margin-top: 30px;">
+<div align="left" style="margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adriano-Reis-Eng&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"/>
 </div>
 <h2 fontsize="20em" style="margin-top: 50px;">Trabalhando atualmente com:
