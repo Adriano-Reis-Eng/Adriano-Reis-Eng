@@ -35,6 +35,3 @@
 <br>&nbsp;&nbsp;-Desenvolvimento de api com C# e autenticação JWT</h2> 
 <h2 fontsize="20em" style="margin-top: 50px;">Interesses:
 <br>&nbsp;&nbsp;Iniciante na área da programação, me formei em Engenharia de Software pela faculdade IESB(2024) e conclui também o curso de desenvolvedor Back-End pelo Senai(Desenvolvimento de sistemas e APIs com C#,2023), com isso pretendo trabalhar com desenvolvimento de aplicativos mobile, desktop, sites e APIs.</h2>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div> 
